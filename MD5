@@ -1,0 +1,15 @@
+278f1ab5e13904a47d913a04df904615 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+289fa7508efa950ff1ce0bb57767a4c8 *R/calc.b.init.R
+eb7b7657a1566e0ea1a5c5dfea6fd42b *R/expit.R
+d2dd5658dccda59975c4435acbbdaf7d *R/logit.R
+569f7bc18c3f2349fb5a9789396f768e *R/secondary.outcome.effect.R
+d48aa92999c7524c809b23ead076d726 *R/secondary.outcome.effect.identity.R
+6daefa3a940feaf372f73194d6a4b498 *R/secondary.outcome.effect.log.R
+ae6a7432869d0a1d0ca3c8cc6b6f016d *man/RECSO-package.Rd
+5b08f7e4bccb137e6f2cc7e59a93ad66 *man/calc.b.init.Rd
+cf64fc50c0c1aedafb9f25dbeb74b55f *man/expit.Rd
+0b2a65caf36d54df26a580ac5876fe96 *man/logit.Rd
+5a060476ae6cd506f95d8ae1809b4cfe *man/secondary.outcome.effect.Rd
+fac781a958b2b21fef6a5aeb63d38fd0 *man/secondary.outcome.effect.identity.Rd
+031aad910289f7ca3bccf36fdd0c6f6f *man/secondary.outcome.effect.log.Rd
